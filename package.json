@@ -1,0 +1,14 @@
+{
+  "name": "dot",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.5.0"
+  },
+  "dependencies": {
+    "cmd-ts": "^0.12.1"
+  },
+  "prettier": {
+    "semi": false
+  }
+}
